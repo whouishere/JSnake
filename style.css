@@ -1,0 +1,21 @@
+.row {
+    display: flex;
+}
+
+.block {
+    width: 75px;
+    height: 75px;
+    border: solid 1px white;
+}
+
+.empty {
+    background-color: black;
+}
+
+.apple {
+    background-color: red;
+}
+
+.snake {
+    background-color: lime;
+}
